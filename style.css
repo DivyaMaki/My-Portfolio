@@ -1,0 +1,58 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://e0.pxfuel.com/wallpapers/484/427/desktop-wallpaper-solid-black-glossy-black.jpg"); /* Replace with the actual path to your image */
+    background-size: cover; /* Cover the entire page */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    color: #ffffff; /* Default text color */
+}
+
+/* Header Styles */
+header {
+    background: rgba(0, 0, 0, 0.8); /* Semi-transparent background for readability */
+    color: #fff; /* Text color for the header */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style: none; /* Remove bullets from the list */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Display list items in a row */
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff; /* Text color for navigation links */
+    text-decoration: none; /* Remove underline from links */
+}
+
+/* Section Styles */
+section {
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* Semi-transparent background for readability */
+    margin: 20px;
+    border-radius: 10px; /* Rounded corners */
+    color: #000000; /* Text color for sections */
+}
+
+/* Heading Styles */
+h2 {
+    color: #333; /* Heading color */
+}
+
+/* Footer Styles */
+footer {
+    background: rgba(51, 51, 51, 0.8); /* Semi-transparent background */
+    color: #fff; /* Text color for the footer */
+    text-align: center;
+    padding: 10px;
+}
